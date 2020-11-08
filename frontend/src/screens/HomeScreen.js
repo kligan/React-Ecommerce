@@ -9,7 +9,7 @@ import { listProducts } from '../actions/productActions';
 export default function HomeScreen() {
 const dispatch = useDispatch();
 const productList = useSelector((state) => state.productList);
-const { loading, error, product } = productList;
+const { loading, error, products } = productList;
 
 
   useEffect(() => {
@@ -23,7 +23,7 @@ const { loading, error, product } = productList;
         <MessageBox variant="danger">{error}</MessageBox>
       ) : (
         <div className="row center">
-          {product.map((product) => (
+          {products.map((product) => (
             <Product key={product._id} product={product}></Product>
           ))}
         </div>
