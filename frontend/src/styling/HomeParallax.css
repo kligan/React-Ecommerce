@@ -1,0 +1,235 @@
+.cab{
+	/* height: 100%; */
+	width: 20rem;
+	/* position: absolute; */
+	margin-left: 70rem;
+	margin-top: 190px;
+	filter: drop-shadow(8px 8px 10px gray);
+	/* top: 160px; */
+	/* margin-top: 50rem; */
+	
+}
+
+
+.cab3blur{
+	/* height: 100%; */
+	width: 10rem;
+	position: absolute;
+	margin-left: 20rem;
+	margin-top: 490px;
+	/* filter: drop-shadow(8px 8px 10px gray); */
+	/* top: 160px; */
+	/* margin-top: 50rem; */
+	
+}
+
+.chile{
+	width: 150px;
+	height: 150px;
+	margin-left: 70rem;
+	/* position: absolute; */
+	margin-top: 100px;
+	filter: drop-shadow(8px 8px 10px gray);
+	z-index: -1;
+}
+
+.drop1{
+	width: 150px;
+	height: 150px;
+
+}
+
+.bell{
+	width: 130px;
+	height: 170px;
+	margin-left: 10rem;
+	/* position: absolute; */
+	transform: rotate(290deg);
+	margin-top: 200px;
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+
+.tomato{
+	width: 110px;
+	height: 110px;
+	margin-left: 5rem;
+	/* position: absolute; */
+	margin-top: 22px;
+	transform: rotate(20deg);
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+
+.orange{
+	width: 110px;
+	height: 110px;
+	margin-left: 70rem;
+	/* position: absolute; */
+	/*  */
+	
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+
+.leaf{
+	width: 80px;
+	height: 150px;
+	margin-left: 10rem;
+	/* position: absolute; */
+	margin-top: 20px;
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+
+.leafleft{
+	width: 80px;
+	height: 150px;
+	margin-left: 30rem;
+	/* position: absolute; */
+	margin-top: 220px;
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+.leafblur{
+	width: 80px;
+	height: 150px;
+	margin-left: 30rem;
+	/* position: absolute; */
+	margin-top: 220px;
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+.leafright{
+	width: 80px;
+	height: 150px;
+	margin-left: 30rem;
+	/* position: absolute; */
+	margin-top: 220px;
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+
+.leafnew{
+	width: 100px;
+	height: 100px;
+	margin-top: 360px;
+	margin-left: 280px;
+	filter: drop-shadow(8px 8px 10px gray);
+}
+
+.leafnew1{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	margin-top: 470px;
+	margin-left: 80rem;	
+	transform: rotate(-20deg);
+	filter: drop-shadow(8px 8px 10px gray);
+}
+
+.leafnew2{
+	width: 100px;
+	height: 100px;
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 90rem;	
+	transform: rotate(90deg);
+	filter: drop-shadow(8px 8px 10px gray);
+}
+
+.leafnew3{
+	width: 80px;
+	height: 80px;
+	position: absolute;
+	margin-top: 470px;
+	margin-left: 5rem;	
+	transform: rotate(190deg);
+	filter: drop-shadow(8px 8px 10px gray);
+}
+
+.bell1{
+	width: 70px;
+	height: 95px;
+	margin-left: 60rem;
+	/* position: absolute; */
+	transform: rotate(50deg);
+	margin-top: 470px;
+	filter: blur(3px);
+	filter: drop-shadow(8px 8px 10px gray);
+	/* z-index: -1; */
+}
+
+.tomato1{
+	width: 150px;
+	height: 150px;
+	margin-left: 40rem;
+	position: absolute;
+	margin-top: 600px;
+	transform: rotate(-20deg);
+	filter: drop-shadow(8px 8px 10px gray);
+}
+
+.tomato2{
+	width: 70px;
+	height: 70px;
+	margin-left: 90rem;
+	position: absolute;
+	margin-top: 590px;
+	transform: rotate(40deg);
+	filter: drop-shadow(8px 8px 10px gray);
+}
+
+.chilleg{
+	width: 220px;
+	height: auto;
+	position: absolute;
+	margin-top: 490px;
+	margin-left: 60rem;
+	transform: rotate(-220deg);
+	filter: drop-shadow(8px 8px 10px gray);
+
+}
+
+.chilleg1{
+	width: 220px;
+	height: auto;
+	position: absolute;
+	margin-top: 60px;
+	margin-left: 20rem;
+	transform: rotate(-130deg);
+	filter: drop-shadow(8px 8px 10px gray);
+
+}
+
+.chilleg2{
+	width: 200px;
+	height: auto;
+	position: absolute;
+	margin-top: 450px;
+	margin-left: 33rem;
+	transform: rotate(-220deg);
+	filter: blur(14px);
+
+}
+
+.leafnew4{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	margin-top: 70px;
+	margin-left: 20rem;	
+	transform: rotate(190deg);
+	filter: blur(14px);
+}
+
+
+.leafnew5{
+	width: 50px;
+	height: 50px;
+	position: absolute;
+	margin-top: 390px;
+	margin-left: 60rem;	
+	transform: rotate(190deg);
+	filter: blur(14px);
+}
